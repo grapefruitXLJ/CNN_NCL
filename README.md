@@ -8,4 +8,6 @@ Method of combining one-dimensional convolution neural network and negative corr
  > There are three formats of these data. Standard Matlab Variable Format was used.
 ## SMOTE
 > Synthetic Minority Over-sampling Technique (SMOTE) is used to expand corn dataset.N/100 is the sampling ratio and k is the number of neighbors.it is not reliable to build a model using data created by SMOTE, so it is necessary to use real samples for prediction.
-
+## Sub-network
+>This one-dimensional convolution neural network is suitable for both spectral data mentioned above.  
+![]()
