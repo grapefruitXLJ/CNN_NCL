@@ -12,4 +12,4 @@
 
 ## Training skill
 The model cannot be trained at once. It is necessary to adjust the learning rate and the number of epochs according to the changes of rmsec and rmsecv. The picture below shows that the model has converged and it's time to stop training.
-![]
+![](E:\论文撰写\figures\Changes of RMSEC and RMSECV.png)
