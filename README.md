@@ -11,3 +11,5 @@ Method of combining one-dimensional convolution neural network and negative corr
 ## Sub-network
 >This one-dimensional convolution neural network is suitable for both spectral data mentioned above.  
 ![](https://github.com/grapefruitXLJ/CNN_NCL/blob/master/cnn%20structure.jpg)
+
+## Training skill
