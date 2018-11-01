@@ -1,6 +1,4 @@
-# CNN_NCL
-Method of combining one-dimensional convolution neural network and negative correlation learning for analysis of near-infrared spectra
-
+# Method of combining one-dimensional convolution neural network and negative correlation learning for analysis of near-infrared spectra
 ## Dataset
 * [NIR of Corn Sample for Standardization Benchmarking](http://www.eigenvector.com/data/Corn/index.html) <br>
 > m5 data was chosen to build the model. In addition, the outliers (75 and 77) are removed from this dataset. Ramdonly choose 62 sampels for cailbration,8 for vaildation and 8 for prediction.Since there are only 78 samples in the dataset, we preform SMOTE algorithm on it.
