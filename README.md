@@ -6,4 +6,6 @@ Method of combining one-dimensional convolution neural network and negative corr
 > m5 data was chosen to build the model. In addition, the outliers (75 and 77) are removed from this dataset. Ramdonly choose 62 sampels for cailbration,8 for vaildation and 8 for prediction.Since there are only 78 samples in the dataset, we preform SMOTE algorithm on it.
 * [Near Infrared Spectra of Diesel Fuels](http://www.eigenvector.com/data/SWRI/index.html)<br>
  > There are three formats of these data. Standard Matlab Variable Format was used.
+## SMOTE
+> Synthetic Minority Over-sampling Technique (SMOTE) is used to expand corn dataset.N/100 is the sampling ratio and k is the number of neighbors.it is not reliable to build a model using data created by SMOTE, so it is necessary to use real samples for prediction.
 
